@@ -2,7 +2,7 @@
  (name "USB_TYPE-C_MINIMAL")
  (description "")
  (keywords "eagle,import")
- (author "EAGLE Import")
+ (author "Parker")
  (version "0.1")
  (created 2024-08-16T21:37:36Z)
  (deprecated false)

@@ -1,0 +1,10 @@
+(librepcb_component_category 8c795580-43d9-42bc-b725-747a918ed232
+ (name "ESD Protection")
+ (description "")
+ (keywords "")
+ (author "Parker")
+ (version "0.1")
+ (created 2024-08-16T23:08:20Z)
+ (deprecated false)
+ (parent 8226f987-124b-4776-9084-3821dd51c272)
+)
