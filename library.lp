@@ -1,0 +1,11 @@
+(librepcb_library 3c59bbec-ec3b-4c8d-8db3-b99434dcaebd
+ (name "LHE-LibrePCB-Part")
+ (description "")
+ (keywords "")
+ (author "Parker")
+ (version "0.1")
+ (created 2024-08-15T23:01:04Z)
+ (deprecated false)
+ (url "https://github.com/LonghornEngineer/LHE-LibrePCB-Parts")
+ (manufacturer "")
+)
