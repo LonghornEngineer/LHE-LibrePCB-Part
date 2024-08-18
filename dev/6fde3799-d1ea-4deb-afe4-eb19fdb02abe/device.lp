@@ -1,5 +1,5 @@
 (librepcb_device 6fde3799-d1ea-4deb-afe4-eb19fdb02abe
- (name "USB_TYPE-C_MINIMAL")
+ (name "TYPE-C-31-M-12")
  (description "")
  (keywords "eagle,import")
  (author "Parker")
