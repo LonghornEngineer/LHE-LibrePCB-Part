@@ -1,5 +1,5 @@
 (librepcb_package dcfcfbce-e438-48c9-80e2-bd4a0e0d1f53
- (name "SP721_SOIC-8")
+ (name "SOIC-8")
  (description "")
  (keywords "eagle,import")
  (author "EAGLE Import")

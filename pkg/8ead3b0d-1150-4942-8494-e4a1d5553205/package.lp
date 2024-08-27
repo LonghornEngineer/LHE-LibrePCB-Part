@@ -1,6 +1,6 @@
 (librepcb_package 8ead3b0d-1150-4942-8494-e4a1d5553205
- (name "PTS810 Series")
- (description "")
+ (name "PTS810")
+ (description "C&K’s PTS810 series microminiature SMT top actuated switch footprint")
  (keywords "eagle,import")
  (author "Parker")
  (version "0.1")

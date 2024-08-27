@@ -1,5 +1,5 @@
 (librepcb_package 43c563f6-f034-48d4-85ec-12071fa41f52
- (name "PCA9615DP_TSSOP-10")
+ (name "TSSOP-10")
  (description "")
  (keywords "eagle,import")
  (author "Parker")

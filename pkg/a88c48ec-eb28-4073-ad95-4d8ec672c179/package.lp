@@ -1,5 +1,5 @@
 (librepcb_package a88c48ec-eb28-4073-ad95-4d8ec672c179
- (name "IP4234CZ6_SOT-457-6")
+ (name "SOT-457-6")
  (description "")
  (keywords "eagle,import")
  (author "Parker")

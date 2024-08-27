@@ -1,5 +1,5 @@
 (librepcb_package 62051232-c7ff-4cd7-a925-2959b637b751
- (name "LT8672_MSOP-10")
+ (name "MSOP-10")
  (description "")
  (keywords "eagle,import")
  (author "Parker")

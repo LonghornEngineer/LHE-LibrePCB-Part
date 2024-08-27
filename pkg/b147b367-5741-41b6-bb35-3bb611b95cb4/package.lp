@@ -1,6 +1,6 @@
 (librepcb_package b147b367-5741-41b6-bb35-3bb611b95cb4
- (name "ACS72981_PSOF-7")
- (description "")
+ (name "PSOF-7")
+ (description "Allegro ACS72981 series package")
  (keywords "eagle,import")
  (author "Parker")
  (version "0.1")

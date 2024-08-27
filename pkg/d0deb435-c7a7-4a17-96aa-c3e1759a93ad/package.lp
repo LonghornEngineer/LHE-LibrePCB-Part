@@ -1,6 +1,6 @@
 (librepcb_package d0deb435-c7a7-4a17-96aa-c3e1759a93ad
- (name "INDC_XPL2010")
- (description "")
+ (name "XPL2010")
+ (description "Coilcraft XPL2010 series inductor footprint")
  (keywords "eagle,import")
  (author "Parker")
  (version "0.1")

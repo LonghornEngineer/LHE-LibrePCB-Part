@@ -1,5 +1,5 @@
 (librepcb_package 71fed16e-3a00-46a5-8eb7-5d59ceded56a
- (name "ATSAMD21G18A_TQFP-48")
+ (name "TQFP-48")
  (description "")
  (keywords "eagle,import")
  (author "Parker")
